@@ -33,15 +33,6 @@ Hosted on [Vercel](https://vercel.com).
 * **CSS3** (Animations + Responsive design)
 * **JavaScript** *(optional if used)*
 * **Vercel** for deployment
-
----
-
-## 📫 Contact
-
-* 📧 Email: [yourname@example.com](mailto:yourname@example.com)
-* 💼 LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
-* 🌍 Portfolio: [sharan-s-portfolio.vercel.app](https://sharan-s-portfolio.vercel.app)
-
 ---
 
 > 💡 Feel free to fork or clone this repo to create your own portfolio!
